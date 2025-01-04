@@ -16737,6 +16737,18 @@
 		(layer "Edge.Cuts")
 		(uuid "f5a385b9-7934-4e70-987d-e80ef33c0f0f")
 	)
+	(gr_text "{dblquote}Mark 1{dblquote}"
+		(at 170.25 141.25 0)
+		(layer "F.SilkS")
+		(uuid "e8d78d6e-3588-4e97-a021-96148fffa62b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
 	(segment
 		(start 159.925 55.5)
 		(end 160.175 55.75)
